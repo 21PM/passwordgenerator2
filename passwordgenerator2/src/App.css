@@ -1,0 +1,64 @@
+body{
+    background-color: #f3f4f6;
+}
+.outerDiv{
+    width: 30%;
+    min-height: 70vh;
+    margin: auto;
+    /* border: 1px solid red; */
+    margin-top: 70px;
+    padding: 5px 25px;
+    background-color: #f3f4f6;
+}
+.gendiv{
+    width: 100%;
+    min-height: 100%;
+    /* border: 1px solid blue; */
+    padding: 5px;
+}
+.numinput{
+    width: 85%;
+    height: 30px;
+}
+.flexDiv{
+    width: 80%;
+    margin: auto;
+    height: 20px;
+    display: flex;
+    /* border: 1px solid yellow; */
+    /* justify-content: space-between; */
+    align-items: center;
+    margin-top: 20px;
+}
+.btn{
+    padding: 8px 25px;
+    background-color: #3b82f6;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    width: max-content;
+    margin-left: 120px;
+    cursor: pointer;
+}
+.genep{
+        text-align: center;
+}
+.copybar{
+        width: max-content;
+        margin-left: 120px;
+        height: 20px;
+}
+.copyDiv{
+    width: 80%;
+    /* margin: auto; */
+    height: 20px;
+    display: flex;
+    /* border: 1px solid yellow; */
+    /* justify-content: space-between; */
+    align-items: center;
+    margin-top: 20px;
+}
+.copyDiv img {
+    cursor: pointer;
+}
